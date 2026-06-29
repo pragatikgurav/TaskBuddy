@@ -1,32 +1,28 @@
 ````markdown
 <div align="center">
 
-# 🌟 TaskBuddy
+# 🚀 TaskBuddy
 
-### 🚀 Smart & Modern Task Management Application
+### 🌟 Your Friendly Task Manager
 
-<p>
-Organize your daily tasks efficiently with a beautiful and responsive interface built using <strong>React.js</strong>.
+A beautiful and responsive **Task Management Application** built using **React.js** that helps users organize daily tasks with priorities, categories, progress tracking, and LocalStorage support.
+
+<p align="center">
+
+![React](https://img.shields.io/badge/React-19-61DAFB?logo=react&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS3-Styled-1572B6?logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-Yes-success)
+![LocalStorage](https://img.shields.io/badge/LocalStorage-Supported-orange)
+![MIT](https://img.shields.io/badge/License-MIT-green)
+
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-ES6-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/Responsive-✔-success?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LocalStorage-Enabled-orange?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Open%20Source-❤-red?style=for-the-badge"/>
-</p>
+### 🌐 Live Demo
+Coming Soon
 
-<br>
-
-<a href="https://YOUR_USERNAME.github.io/TaskBuddy">
-<img src="https://img.shields.io/badge/🌐 Live Demo-Visit-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://github.com/YOUR_USERNAME/TaskBuddy">
-<img src="https://img.shields.io/badge/⭐ Repository-View-black?style=for-the-badge"/>
-</a>
+### 📂 Repository
+https://github.com/pragat026/TaskBuddy
 
 </div>
 
@@ -34,94 +30,82 @@ Organize your daily tasks efficiently with a beautiful and responsive interface 
 
 # 📖 About
 
-TaskBuddy is a **modern task management application** developed with **React.js** that helps users organize their daily work efficiently.
+TaskBuddy is a modern task management application built with **React.js**.
 
-✨ It offers a clean UI with priority management, categories, progress tracking, and LocalStorage support for persistent data.
+It allows users to easily manage their daily tasks while keeping everything stored locally in the browser.
+
+## Features
+
+- ✅ Add Tasks
+- ✏️ Edit Tasks
+- ✔️ Mark as Completed
+- 🔄 Undo Completed Tasks
+- 🗑 Delete Tasks
+- 🎯 Priority Levels
+- 📂 Categories
+- 📊 Progress Tracking
+- 💾 LocalStorage Support
+- 📱 Fully Responsive UI
 
 ---
 
-# ✨ Features
+# ✨ Application Features
 
 ## 📝 Task Management
 
-- ➕ Add Tasks
-- ✏ Edit Tasks
-- ✅ Mark as Complete
-- 🔄 Undo Completed Tasks
-- 🗑 Delete Tasks
-- 🚫 Prevent Empty Submission
+- Add new tasks instantly
+- Delete unnecessary tasks
+- Mark tasks as complete
+- Undo completed tasks
+- Prevent empty task submission
 
 ---
 
 ## 🎯 Priority Levels
 
-| Priority | Color |
-|-----------|--------|
-| 🔴 High | Urgent |
-| 🟡 Medium | Important |
-| 🟢 Low | Normal |
+🔴 High
+
+🟡 Medium
+
+🟢 Low
 
 ---
 
 ## 📂 Categories
 
-- 💼 Work
-- 👤 Personal
-- 📒 General
+- General
+- Work
+- Personal
 
 ---
 
-## 📊 Progress Dashboard
+## 📈 Progress Tracker
 
-✔ Live Task Counter
-
-✔ Completed Tasks
-
-✔ Dynamic Progress Bar
-
-✔ Auto Updates
+- Live completed counter
+- Progress Bar
+- Automatic updates
 
 ---
 
 ## 💾 Local Storage
 
-Your tasks are automatically saved in the browser.
-
-No database required.
-
-Even after refreshing the page, your tasks remain safe.
-
----
-
-# 🎨 UI Highlights
-
-✨ Glassmorphism Design
-
-✨ Responsive Layout
-
-✨ Smooth Hover Effects
-
-✨ Modern Cards
-
-✨ Beautiful Buttons
-
-✨ Clean Typography
+Tasks remain saved even after refreshing the browser.
 
 ---
 
 # 🛠 Tech Stack
 
 | Technology | Purpose |
-|------------|-----------|
-| ⚛ React.js | Frontend |
-| JavaScript ES6 | Logic |
+|------------|---------|
+| React.js | Frontend |
+| JavaScript | Logic |
 | HTML5 | Structure |
 | CSS3 | Styling |
-| LocalStorage | Persistent Storage |
+| LocalStorage | Data Storage |
 
 ---
 
-# 📁 Folder Structure
+# 📁 Project Structure
 
 ```text
 TaskBuddy
@@ -132,8 +116,8 @@ TaskBuddy
 │   ├── Components
 │   │
 │   ├── TaskForm.jsx
-│   ├── TaskItem.jsx
 │   ├── TaskList.jsx
+│   ├── TaskItem.jsx
 │   ├── ProgressTracker.jsx
 │   │
 │   ├── App.jsx
@@ -148,49 +132,45 @@ TaskBuddy
 
 # 📸 Screenshots
 
-<div align="center">
+## 🏠 Home
 
-### 🏠 Home
-
-<img src="screenshots/home.png" width="900"/>
+![Home](https://github.com/user-attachments/assets/1441eee4-4121-4bfd-bf0e-db737d8ccee2)
 
 ---
 
-### ➕ Add Task
+## ➕
 
-<img src="screenshots/addtask.png" width="900"/>
+![Add Task](https://github.com/user-attachments/assets/bfb79a4c-987d-461b-8247-cd431e04efd4)
 
 ---
 
-### ✅ Completed Tasks
+## ✅ Completed Tasks
 
-<img src="screenshots/completed.png" width="900"/>
-
-</div>
+![Completed](https://github.com/user-attachments/assets/7dc48c77-c9bd-4ee6-ae84-a9ca0d79419a)
 
 ---
 
 # 🚀 Installation
 
-### Clone Repository
+Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/TaskBuddy.git
+git clone https://github.com/pragat026/TaskBuddy.git
 ```
 
-### Navigate to Folder
+Move into Project
 
 ```bash
 cd TaskBuddy
 ```
 
-### Install Packages
+Install Dependencies
 
 ```bash
 npm install
 ```
 
-### Start Development Server
+Run Project
 
 ```bash
 npm run dev
@@ -198,111 +178,95 @@ npm run dev
 
 ---
 
-# 💡 Future Enhancements
+# 🎯 Future Enhancements
 
 - 🔍 Search Tasks
 - 🌙 Dark Mode
 - 📅 Due Dates
 - 🔔 Notifications
-- 🏷 Task Tags
-- 📊 Analytics Dashboard
-- 📌 Drag & Drop
-- 👤 User Authentication
-- ☁ Cloud Database
-- 📱 PWA Support
+- 🏷 Tags
+- Drag & Drop
+- User Authentication
+- Firebase Integration
 
 ---
 
 # 📚 What I Learned
 
 - React Components
-- JSX
-- Props
 - useState Hook
+- Props
+- State Management
 - Event Handling
 - Conditional Rendering
 - LocalStorage
-- Responsive CSS
-- Component Reusability
-
----
-
-# 🎯 Why This Project?
-
-TaskBuddy was built to improve productivity by providing an elegant and user-friendly interface for managing daily tasks.
-
-It demonstrates practical knowledge of:
-
-- React Development
-- UI Design
-- State Management
-- Responsive Web Design
-
-making it an excellent portfolio project for aspiring Frontend and Full Stack Developers.
+- Responsive Design
 
 ---
 
 # 🤝 Contributing
 
-Contributions are always welcome!
+Contributions are welcome.
+
+1. Fork the repository
+
+2. Create a feature branch
 
 ```bash
-1. Fork Repository
-
-2. Create Feature Branch
 git checkout -b feature-name
-
-3. Commit Changes
-git commit -m "Added Feature"
-
-4. Push Changes
-git push origin feature-name
-
-5. Create Pull Request
 ```
+
+3. Commit changes
+
+```bash
+git commit -m "Added new feature"
+```
+
+4. Push
+
+```bash
+git push origin feature-name
+```
+
+5. Open a Pull Request
 
 ---
 
-# 👩‍💻 Developer
+# 👩‍💻 Author
 
-## 💜 Pragati Gurav
+## Pragati Gurav
 
 🎓 B.E. Computer Science Engineering (2026)
 
 💻 Java Full Stack Developer
 
-🌱 Currently Learning
+🌱 React • Java • Spring Boot • SQL • Python
 
-- React.js
-- Spring Boot
-- Java
-- SQL
-- REST APIs
-- Python
+### GitHub
 
-### 📫 Connect With Me
+https://github.com/pragat026
 
-📧 your-email@gmail.com
+### LinkedIn
 
-🐙 https://github.com/pragat026
+https://www.linkedin.com/in/pragatikgurav/
 
-💼 https://linkedin.com/in/your-linkedin
+---
+
+# ⭐ Support
+
+If you found this project useful,
+
+**Please consider giving it a ⭐ Star.**
+
+It motivates me to build more exciting projects.
 
 ---
 
 <div align="center">
 
-# ⭐ If you like this project
+## 💜 Thank You for Visiting 💜
 
-### Give this repository a ⭐ Star
-
-It motivates me to build more amazing open-source projects.
-
----
-
-## ❤️ Thank You for Visiting
-
-Made with ❤️ by **Pragati Gurav**
+Made with ❤️ using React
 
 </div>
 ````
