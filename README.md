@@ -1,6 +1,32 @@
-# 📝 TaskBuddy
+
+ # 📝 TaskBuddy
 
 > A sleek, responsive, and feature-rich React-based task management application designed to help you stay organized and productive.
+
+---
+
+## 🔗 Live Demo
+
+✨ **Explore the live app here:** https://pragatikgurav.github.io/TaskBuddy/
+
+---
+
+## 📸 Project Screenshots
+
+### ✨ Application Requirements & Interface Plan
+Below is the core requirement overview for building the application:
+<img width="592" height="506" alt="Screenshot 2026-06-28 165032" src="https://github.com/user-attachments/assets/339d5ed8-dbf2-4a38-93f2-84f4a7592425" />
+
+
+---
+
+### 📂 File Structure & Code Implementation
+Below is the project architecture and the setup for the `TaskForm` component:
+<img width="566" height="695" alt="Screenshot 2026-06-28 165046" src="https://github.com/user-attachments/assets/c6f145ee-1e5b-459b-a427-a43dea9f400e" />
+
+### 📂 File Structure & Code Implementation
+Below is the project architecture and the setup for the `TaskForm` component:
+<img width="621" height="780" alt="Screenshot 2026-06-28 170225" src="https://github.com/user-attachments/assets/3e00ac0a-1174-475b-b951-1599158886af" />
 
 ---
 
